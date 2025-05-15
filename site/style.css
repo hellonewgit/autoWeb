@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    color: blue;
+}
+
+button {
+    background-color: green;
+}
+
+.content {
+    display: flex;
+}
